@@ -1,0 +1,24 @@
+/* 
+selector{
+    property:value;
+} */
+h4{
+    color: red;
+    font-size: 5rem;
+}
+.hello{
+   background-color: antiquewhite;
+}
+#world{
+  background-color: antiquewhite;
+}
+/* picking diffrent selectors and applying same style to it */
+
+
+
+/* inheritance */
+.section2,
+.section3{
+    color: blue;
+    font-size: 4rem;
+}

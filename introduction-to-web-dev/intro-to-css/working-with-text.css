@@ -1,0 +1,23 @@
+/* working with text */
+body{
+    background-color: whitesmoke;
+}
+p{
+    /* horizontally */
+    text-align: center;
+    /* vertically */
+
+}
+table tr{
+    height: 50px;
+    width: 50px;
+    vertical-align: top;
+
+    
+}
+/* 16px is 1rem */
+a{
+    text-decoration: none;
+    color: green;
+}
+a
